@@ -2,9 +2,8 @@
 Research Question: How does the K-means algorithm compare to the DBSCAN algorithm in terms of stable clustering?	
 </br>
 For my IB Diploma I chose to conduct my Extended Essay in Computer Science.
-</br>
-The following is the introduction to my essay:
-</br>
+</br></br>
+**The following is the introduction to my essay:**
 </br>
 This essay intends to investigate the reliability of clustering algorithms, a type of unsupervised machine learning. I will research the K-means and Density-based spatial clustering of applications with noise (DBSCAN) algorithms in terms of stable clustering, as this attribute greatly contributes to how reliable an algorithm is. 
 	Clustering algorithms are a type of unsupervised machine learning, where algorithms try to categorise, cluster, an unlabeled set of data to make intelligent groups. There are also several other criteria that one might look for when investigating the most appropriate clustering algorithm for different contexts.
